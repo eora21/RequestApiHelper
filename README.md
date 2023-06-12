@@ -12,8 +12,6 @@
 ## Github private Email
 Github OAuth 발급 후 id와 secret을 `application.properties`에 적어주세요.
 
-Github에서 사용자의 email을 받아오는 토큰을 생성한 후 `application.properties`에 적어주세요.
-
 > 버그 제보는 언제나 환영입니다!
 > 
 > 도움을 준 현준님 감사합니다!
